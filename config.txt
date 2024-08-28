@@ -1,0 +1,15 @@
+receptor = 4w5x.pdbqt # this is an example config file for AutoDock Vina
+
+center_x = 24.8 
+center_y = -28.509
+center_z = -34.033
+
+size_x = 35
+size_y = 36
+size_z = 53
+
+spacing = 0.5
+
+exhaustiveness = 16
+
+num_modes = 50
